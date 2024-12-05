@@ -1,0 +1,36 @@
+.divEntrada {
+    display: flex;
+    width: 320px;
+    height: 50px;
+}
+
+.firstSection {
+    display: flex;
+    width: 320px;
+}
+
+.secondSection {
+    display: flex;
+    width: 320px;
+}
+
+.thirdSection {
+    display: flex;
+    width: 320px;
+}
+.fourthsection {
+    display: flex;
+    width: 320px;
+}
+
+.fifthSection {
+    display: flex;
+    width: 320px;
+}
+
+.buttonSize {
+    width: 80px;
+}
+.buttonSize:hover {
+    background-color: rgb(240, 162, 36);
+}
